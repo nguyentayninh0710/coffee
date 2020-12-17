@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DatMonAn</string>
+    <string name="btnLogin">Đăng nhập</string>
+    <string name="btnExit">Thoát</string>
+    <string name="txtUsername">Tên đăng nhập</string>
+    <string name="txtPassword">Mật khẩu</string>
+</resources>
